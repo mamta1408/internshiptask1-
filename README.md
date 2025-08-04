@@ -12,6 +12,7 @@
  Commands Used
 
    root@DESKTOP-DIH67TP:~# ifconfig
+   
     root@DESKTOP-DIH67TP:~# nmap -sS 172.20.16.0/20
 
  Summary of Active Hosts in 172.20.16.0/20:
